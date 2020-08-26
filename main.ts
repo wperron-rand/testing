@@ -1,9 +1,9 @@
 export default function greet() {
-  return "Hello, World!"
+  return "Hello, World!";
 }
 
 export function now() {
-  return new Date()
+  return new Date();
 }
 
-export const answer = 42
+export const answer = 42;
