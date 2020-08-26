@@ -5,3 +5,5 @@ export default function greet() {
 export function now() {
   return new Date()
 }
+
+export const answer = 42
