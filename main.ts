@@ -8,5 +8,7 @@ export function now() {
 
 export const add = (a, b) => a + b;
 
+export type Alias = string;
+
 export const answer = 42;
 export const contact_me = "@wperron"
