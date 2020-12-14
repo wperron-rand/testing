@@ -7,6 +7,7 @@ export function now() {
 }
 
 export const add = (a, b) => a + b;
+export const sub = (a, b) => a - b;
 
 export type Alias = string;
 
